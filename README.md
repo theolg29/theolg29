@@ -1,16 +1,29 @@
-### Hi there 👋
+Salut, je m'appelle Théo et j'ai 19 ans 👋.
 
-<!--
-**theolg29/theolg29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis acutellement en étude de développement web, je suis également en alternance dans une agence de création de site.
 
-Here are some ideas to get you started:
+- 🔭 Je travaille actuellement sur mon apprentissage de compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Je suis en train d'apprendre React 🚀
+
+- 📫 Comment me joindre : 
+- Sur mon portfolio : https://www.theolegourrierec.fr/
+- Par mail : contact@theolegourrierec.fr
+
+N'hésitez pas à me contacter 😉
+
+---
+
+Hi, my name is Théo and I'm 19 👋.
+
+I'm acutally studying web development, I'm also doing a sandwich course in a website design agency.
+
+- 🔭 I'm currently working on my skills apprenticeship
+
+- 🌱 I'm learning React 🚀
+
+- 📫 How to reach me: 
+- On my portfolio: https://www.theolegourrierec.fr/
+- By email: contact@theolegourrierec.fr
+
+Feel free to contact me 😉
