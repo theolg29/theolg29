@@ -6,7 +6,7 @@ Je suis acutellement en étude de **développement web**, je suis également en 
 >
 > 🌱 Je suis en train d'apprendre React 🚀
 >
-- 📫 Comment me joindre : 
+📫 Comment me joindre : 
 - Sur mon portfolio : https://www.theolegourrierec.fr/
 - Par mail : contact@theolegourrierec.fr
 
@@ -22,7 +22,7 @@ I'm acutally studying **web development**, I'm also doing a sandwich course in a
 >
 > 🌱 I'm learning React 🚀
 
-- 📫 How to reach me: 
+📫 How to reach me: 
 - On my portfolio: https://www.theolegourrierec.fr/
 - By email: contact@theolegourrierec.fr
 
