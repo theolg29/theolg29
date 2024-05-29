@@ -14,20 +14,6 @@ N'hésitez pas à me contacter 😉
 
 ---
 
-# Hi, my name is Théo and I'm 19 👋.
-
-I'm acutally studying **web development**, I'm also doing a sandwich course in a website design agency.
-
-> 🔭 I'm currently working on my skills apprenticeship
->
-> 🌱 I'm learning React 🚀
-
-📫 How to reach me: 
-- On my portfolio: https://theolegourrierec.fr/
-- By email: contact@theolegourrierec.fr
-
-Feel free to contact me 😉
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theolg29&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <div>
